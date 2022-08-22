@@ -1,9 +1,9 @@
-## Marble seeds backend template
+## Marble seeds [Module name]
 
 ## Install with
 
 ```
-npm i @marble-seeds/api
+npm i @marble-seeds/[Module name]
 ```
 
 ## Docs
