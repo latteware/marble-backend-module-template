@@ -1,5 +1,5 @@
 const main = () => {
-  console.log('module running')
+  return true
 }
 
 module.exports = {
