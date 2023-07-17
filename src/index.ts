@@ -4,7 +4,7 @@ interface Config {
 }
 
 export const Sample = class Sample {
-  private _config: Config
+  public _config: Config
 
   constructor (config?: Config) {
     this._config = config ?? { name: 'sample', age: 18 }
