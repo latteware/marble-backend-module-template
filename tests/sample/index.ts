@@ -1,7 +1,6 @@
-/* global describe, it */
 import { expect } from 'chai'
 
-import { Sample } from '../../index'
+import { Sample } from '../../src/index'
 
 describe('Sample', function () {
   it('Should return config', async function () {
